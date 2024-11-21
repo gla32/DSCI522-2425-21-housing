@@ -4,3 +4,4 @@ List of contributors : Yajing Liu , Gilbert Akuja, Tianjiao Jiang, Thamer Aldawo
 
 Summary: 
 
+Our team will be working on prediciting the value of a house in 
