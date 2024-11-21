@@ -1,4 +1,4 @@
-name: '522-housing'
+name: '522-group21-housing'
 channels:
   - conda-forge
   - defaults
